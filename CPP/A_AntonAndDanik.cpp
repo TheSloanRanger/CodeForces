@@ -34,7 +34,7 @@ int main() {
     }
  
     else if (anton_count == danik_count) {
-    	cout << " Friendship";
+    	cout << "Friendship";
     }
 
 }
